@@ -1,7 +1,7 @@
 {
   "name": "Astro-MD V2",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/vihangayt0/Astro-MD-V2",
+  "repository": "https://github.com/edm-official/whatsapp-base",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
