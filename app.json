@@ -9,7 +9,7 @@
 "ALIVE_MSG" :{
     "description" : "alive message",
     "required" : true,
-  "value" : "Alive now"
+  "value" : "default"
     },
     "INBOX_BL_MSG" :{
     "description" : "Only Group And Inbox Block Massage",
